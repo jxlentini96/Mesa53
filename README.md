@@ -2,6 +2,7 @@
 repositorio para hacer la guía de EGG
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nombre:isaias
 =======
 Adriana
@@ -9,3 +10,6 @@ Adriana
 =======
 #Juan Cruz Lentini
 >>>>>>> 2bd96e6591118537ad757d2f8fe39af2d107f637
+=======
+# Cristian Quevedo
+>>>>>>> 6b3c10b2cb719412143b2ec66c56aa3fb9b2f999
